@@ -1,1 +1,21 @@
+[
 
+{
+"descricao" : "Eliminatorias Copa 2022",
+"loca" : {
+  "nome": "Khalifa",
+  "imagem": "TODO" 
+},
+"mandante": {
+    "nome": "Brasil",
+    "forca": 5,
+    "imagem": "TODO"
+},
+"visitante": {
+    "nome": "Argentina",
+    "forca": 2,
+    "imagem": "TODO"
+}
+}
+
+]
